@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>technological change on Tobias Tober</title>
+    <link>https://tobiastober.github.io/tags/technological-change/</link>
+    <description>Recent content in technological change on Tobias Tober</description>
+    <generator>Hugo -- 0.120.2</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 05 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tobiastober.github.io/tags/technological-change/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Welfare States Buffer Technostress? Income and Technostress in the Context of Various OECD Countries</title>
+      <link>https://tobiastober.github.io/publications/paper9/</link>
+      <pubDate>Tue, 05 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobiastober.github.io/publications/paper9/</guid>
+      <description>Published in PLOS ONE</description>
+    </item>
+    <item>
+      <title>Dealing with Technological Change: Social Policy Preferences and Institutional Context</title>
+      <link>https://tobiastober.github.io/publications/paper7/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobiastober.github.io/publications/paper7/</guid>
+      <description>Published in Comparative Political Studies</description>
+    </item>
+    <item>
+      <title>Preferred Policy Responses to Technological Change: Survey Evidence from OECD Countries</title>
+      <link>https://tobiastober.github.io/publications/paper6/</link>
+      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://tobiastober.github.io/publications/paper6/</guid>
+      <description>Published in Socio-Economic Review</description>
+    </item>
+  </channel>
+</rss>

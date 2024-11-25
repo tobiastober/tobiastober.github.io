@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://tobiastober.github.io" 
+title: Tobias Tober
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,25 +10,16 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Publications
+          url: publications/
+          weight: 1
+        - name: Teaching
+          url: teaching/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a postdoctoral researcher in political science at the University of Konstanz. I am a member of the Department of Politics and Public Administration, the Cluster of Excellence The Politics of Inequality, and a ZENiT Fellow at the Zukunftskolleg (Institute for Advanced Studies)."
+    author: Tobias Tober
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -52,48 +43,33 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
-          imageHeight: 160
+          title: Tobias Tober
+          subtitle: "I am a postdoctoral researcher in political science at the [**University of Konstanz**.](https://www.uni-konstanz.de/en/) I am a member of the [**Department of Politics and Public Administration**,](https://www.polver.uni-konstanz.de/en/busemeyer/team/team-prof-dr-marius-r-busemeyer/dr-tobias-tober/) the Cluster of Excellence [**The Politics of Inequality**,](https://www.exc.uni-konstanz.de/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tober-tobias/) and a ZENiT Fellow at the [**Zukunftskolleg**](https://www.uni-konstanz.de/zukunftskolleg/community/research-fellows/) (Institute for Advanced Studies). My work investigates the political implications of large-scale structural changes such as European integration, globalization, technological change, and climate change from a comparative perspective. I am particularly dedicated to understanding how these structural transformations affect the political economy of the welfare state, both in terms of demand and supply. My research in this area has also covered areas like income inequality, business interests, and subjective well-being. In addition, I have a keen interest in applied quantitative methods and Bayesian statistics. My work has appeared in journals like the *British Journal of Political Science*, *Comparative Political Studies*, and the *Journal of Politics*."
+          imageUrl: "pic.jpg"
+          imageWidth: 150
+          imageHeight: 180
+          imageTitle: Tobias Tober
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Publications
+              url: publications/
+            - name: Teaching
+              url: teaching/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:tobias.tober@uni-konstanz.de
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
+        - name: CV
+          url: cv.pdf
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@alexandermccallsmithoffici9000
-        - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://scholar.google.de/citations?user=LTQCyPoAAAAJ&hl=de
+        - name: orcid
+          url: https://orcid.org/0000-0001-7237-2936
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Tobias-Tober
+        - name: Bluesky
+          url: https://bsky.app/profile/tobiastober.bsky.social
 
     assets:
         disableScrollBarStyle: true
@@ -101,9 +77,9 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
-      iconHeight: 18
+      text: "Tobias Tober"
+      icon: "pic.jpg"
+      iconHeight: 35
 
 markup:
     goldmark:

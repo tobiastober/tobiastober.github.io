@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>replication on Tobias Tober</title>
+    <link>https://tobiastober.github.io/tags/replication/</link>
+    <description>Recent content in replication on Tobias Tober</description>
+    <generator>Hugo -- 0.120.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tobiastober.github.io/tags/replication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Electoral Rules and Partisan Control of Government: A Replication Study</title>
+      <link>https://tobiastober.github.io/publications/paper2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://tobiastober.github.io/publications/paper2/</guid>
+      <description>Published in Journal of Politics</description>
+    </item>
+  </channel>
+</rss>

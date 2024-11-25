@@ -1,8 +1,7 @@
 ---
 title: "Location"
-date: 2024-05-08
 hidemeta: true
-description: "Professor Dr von Igelfeld's mailing and office addresses at the Institute of Romance Philology."
+description: "Mailing and office addresses at the University of Konstanz."
 
 ---
 
@@ -10,24 +9,22 @@ description: "Professor Dr von Igelfeld's mailing and office addresses at the In
 
 #### Mailing address
 
-Professor Dr von Igelfeld  
-Institute of Romance Philology  
-University of Regensburg  
-Regensburg, Germany
+University of Konstanz,
+Department of Politics and Public Administration,
+Box 94,
+Universitätsstraße 10,
+D-78464 Konstanz
 
 ---
 
-#### Office address
+#### Office and phone
 
-Room 133  
-Institute of Romance Philology  
-University of Regensburg
+Room: Y205,
+Phone: +49 7531 88 5625
 
 ---
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10470.896334563153!2d12.085487114429176!3d48.99680799095555!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479fc1126394f30f%3A0xb4c5000594ee5334!2sUniversity%20of%20Regensburg!5e0!3m2!1sen!2sus!4v1714871932562!5m2!1sen!2sus" 
-width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2685.718826476!2d9.18536927640578!3d47.689880271197595!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x479af7c99232e7ed%3A0x9472a3fd1dfc8998!2sUniversit%C3%A4t%20Konstanz!5e0!3m2!1sde!2sde!4v1698924887466!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> 
 

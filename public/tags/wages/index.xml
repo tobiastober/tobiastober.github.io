@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wages on Tobias Tober</title>
+    <link>https://tobiastober.github.io/tags/wages/</link>
+    <description>Recent content in wages on Tobias Tober</description>
+    <generator>Hugo -- 0.120.2</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://tobiastober.github.io/tags/wages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Role of Wages in the Eurozone</title>
+      <link>https://tobiastober.github.io/publications/paper5/</link>
+      <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://tobiastober.github.io/publications/paper5/</guid>
+      <description>Published in Review of International Political Economy</description>
+    </item>
+  </channel>
+</rss>

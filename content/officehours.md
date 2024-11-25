@@ -1,14 +1,13 @@
 ---
 title: "Office Hours"
-date: 2024-05-08
 hidemeta: true
-description: "Schedule and location for Professor Dr von Igelfeld's office hours."
+description: "Schedule and location for office hours."
 ---
 
 --- 
 #### Schedule
 
-Office hours take place on Wednesday at 10am.
+Office hours take place on Day at Hour.
 
 ---
 
