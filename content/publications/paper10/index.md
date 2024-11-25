@@ -1,15 +1,16 @@
 ---
-title: "European Institutional Integration and the Educational Divide in Support for the European Union" 
-date: 2024-07-24
-tags: ["European integration", "EU support", "educational divide"]
-author: ["Sharon Baute", "Tobias Tober"]
-summary: "Forthcoming in British Journal of Political Science"
+title: "Digitalization and the Green Transition: Different Challenges, Same Policy Responses?" 
+date: 2024-09-03
+tags: ["technological change", "green transition", "social policy preferences"]
+author: ["Marius R. Busemeyer", "Sophia Stutzmann", "Tobias Tober"]
+summary: "Forthcoming in Regulation & Governance"
 cover:
-    image: "paper10pic.png"
+    image: "paper10.png"
     alt: "journal cover"
     relative: false
 editPost:
-    Text: "British Journal of Political Science"
+    URL: "https://doi.org/10.1111/rego.12624"
+    Text: "Regulation & Governance"
 ---
 
 ---
@@ -17,16 +18,15 @@ editPost:
 ##### Download
 
 + [Paper](paper10.pdf)
-+ [Online appendix](appendix10.pdf)
 
 ---
 
 ##### Abstract
 
-Since the 1950s, the history of European integration unfolds as a unique social experiment, witnessing the transformation of a non-existent entity into an increasingly institutionalized force. This article delves into the consequences of this ongoing institutionalization on public attitudes towards the institution itself: the European Union (EU). We argue that as European institutional integration advanced, a divide in EU support between more and less educated individuals emerged, with the latter becoming progressively less supportive. Drawing on data from eighty-five waves of the Eurobarometer survey across fifteen countries and over 820,000 individuals from 1976 to 2014, a Bayesian mixed-effects analysis reveals that the gap in support between the more and less educated significantly widened with a country's level of institutional integration. This study emphasizes the necessity of distinguishing institutional effects from temporal patterns in order to enhance our understanding of EU-related public opinion dynamics.
+How do citizens perceive labor market risks related to digitalization and the green transition, and how do these risk perceptions translate into preferences for social policies? We address these questions in this paper by studying the policy preferences of individual workers on how governments should deal with the two labor market challenges of digitalization and the green transition. Employing novel cross-country comparative survey data including a vignette experiment for six advanced postindustrial economies, we probe to what extent the different labor market challenges are associated with differences in preferences, distinguishing between support for social investment policies on the one hand and compensatory policies on the other. A first finding is that even though individuals perceive different levels of labor market risk due to the green transition and digitalization, their preferences for social policy responses do not differ systematically across the two risks. Instead, we find that social policy preferences are affected by individual-level and, to some extent, country-level contextual factors. Confirming previous work, higher perceived labor market risk is associated with more support for compensatory policies but less support for social investment.
 
 ---
 
 ##### Citation
 
-Sharon Baute and Tobias Tober. 2024. "European Institutional Integration and the Educational Divide in Support for the European Union." *British Journal of Political Science* forthcoming.
+Marius R. Busemeyer, Sophia Stutzmann, and Tobias Tober. 2024. "Digitalization and the Green Transition: Different Challenges, Same Policy Responses?" *Regulation & Governance* forthcoming. https://doi.org/10.1111/rego.12624.
