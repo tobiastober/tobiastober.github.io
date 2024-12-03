@@ -5,7 +5,7 @@ tags: ["European integration", "EU support", "educational divide"]
 author: ["Sharon Baute", "Tobias Tober"]
 summary: "Forthcoming in British Journal of Political Science"
 cover:
-    image: "paper11pic.png"
+    image: "paper11.png"
     alt: "journal cover"
     relative: false
 editPost:
