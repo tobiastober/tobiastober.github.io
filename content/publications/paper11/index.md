@@ -9,6 +9,7 @@ cover:
     alt: "journal cover"
     relative: false
 editPost:
+    URL: "https://doi.org/10.1017/S0007123424000309"
     Text: "British Journal of Political Science"
 ---
 
@@ -29,4 +30,4 @@ Since the 1950s, the history of European integration unfolds as a unique social 
 
 ##### Citation
 
-Sharon Baute and Tobias Tober. 2024. "European Institutional Integration and the Educational Divide in Support for the European Union." *British Journal of Political Science* forthcoming.
+Sharon Baute and Tobias Tober. 2024. "European Institutional Integration and the Educational Divide in Support for the European Union." *British Journal of Political Science* forthcoming. https://doi.org/10.1017/S0007123424000309
