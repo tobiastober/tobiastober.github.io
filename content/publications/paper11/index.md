@@ -1,6 +1,6 @@
 ---
 title: "European Institutional Integration and the Educational Divide in Support for the European Union" 
-date: 2024-11-24
+date: 2024-12-03
 tags: ["European integration", "EU support", "educational divide"]
 author: ["Sharon Baute", "Tobias Tober"]
 summary: "Forthcoming in British Journal of Political Science"
