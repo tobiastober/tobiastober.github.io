@@ -3,7 +3,7 @@ title: "European Institutional Integration and the Educational Divide in Support
 date: 2024-12-03
 tags: ["European integration", "EU support", "educational divide"]
 author: ["Sharon Baute", "Tobias Tober"]
-summary: "Forthcoming in British Journal of Political Science"
+summary: "Published in British Journal of Political Science"
 cover:
     image: "paper11.png"
     alt: "journal cover"
@@ -30,4 +30,4 @@ Since the 1950s, the history of European integration unfolds as a unique social 
 
 ##### Citation
 
-Sharon Baute and Tobias Tober. 2024. "European Institutional Integration and the Educational Divide in Support for the European Union." *British Journal of Political Science* forthcoming. https://doi.org/10.1017/S0007123424000309
+Sharon Baute and Tobias Tober. 2024. "European Institutional Integration and the Educational Divide in Support for the European Union." *British Journal of Political Science* 54(4): 1276-1295. https://doi.org/10.1017/S0007123424000309
