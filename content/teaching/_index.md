@@ -10,6 +10,9 @@ description: ""
 * **National Welfare States and the Social Dimension of the European Union** <br>
     MA Seminar
 
+* **The Political Consequences of Technological Change** <br>
+    BA Seminar
+
 * **The Welfare State in International Context** <br>
     BA Seminar
 
