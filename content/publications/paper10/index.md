@@ -1,6 +1,6 @@
 ---
 title: "Digitalization and the Green Transition: Different Challenges, Same Policy Responses?" 
-date: 2025-09-03
+date: 2025-04-01
 tags: ["technological change", "green transition", "social policy preferences"]
 author: ["Marius R. Busemeyer", "Sophia Stutzmann", "Tobias Tober"]
 summary: "Published in Regulation & Governance"
