@@ -1,0 +1,109 @@
+/* --------------------------------------------------
+   Tobias Tober – homepage styling
+   -------------------------------------------------- */
+
+/* Warmer, slightly softer academic colour palette */
+:root {
+    --theme: #fbfaf7;
+    --entry: #ffffff;
+    --primary: #243746;
+    --secondary: #66757f;
+    --tertiary: #edf2f1;
+    --content: #34434c;
+    --border: #dde5e3;
+
+    --accent: #286f6b;
+    --accent-soft: #edf5f3;
+}
+
+
+/* --------------------------------------------------
+   Profile image
+   -------------------------------------------------- */
+
+.profile img {
+    width: 165px;
+    height: 195px;
+    object-fit: cover;
+
+    /* rounded portrait instead of oval/circle */
+    border-radius: 14px;
+
+    border: 1px solid #d9e0de;
+    box-shadow: 0 5px 18px rgba(36, 55, 70, 0.10);
+}
+
+
+/* --------------------------------------------------
+   Name
+   -------------------------------------------------- */
+
+.profile .profile_inner h1 {
+    color: var(--primary);
+    font-size: 2.1rem;
+    letter-spacing: -0.02em;
+}
+
+
+/* --------------------------------------------------
+   Biography
+   -------------------------------------------------- */
+
+/*
+   PaperMod puts profileMode.subtitle inside a <span>.
+   Give the longer biography a comfortable reading width.
+*/
+
+.profile .profile_inner > span {
+    max-width: 760px;
+    text-align: left;
+    line-height: 1.65;
+    font-size: 1rem;
+    color: var(--content);
+    margin-top: 4px;
+}
+
+
+/* Links inside biography */
+.profile .profile_inner > span a {
+    color: var(--accent);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.profile .profile_inner > span a:hover {
+    text-decoration: underline;
+}
+
+
+/* --------------------------------------------------
+   Publications / Teaching buttons
+   -------------------------------------------------- */
+
+.profile .buttons .button {
+    background: var(--accent-soft);
+    border: 1px solid #cbdedb;
+    color: var(--accent);
+    border-radius: 9px;
+    padding: 7px 12px;
+}
+
+.profile .buttons .button:hover {
+    background: #e3efed;
+}
+
+
+/* --------------------------------------------------
+   General links
+   -------------------------------------------------- */
+
+.post-content a {
+    color: var(--accent);
+}
+
+
+/* Slightly softer divider/borders */
+.header,
+.footer {
+    color: var(--secondary);
+}
