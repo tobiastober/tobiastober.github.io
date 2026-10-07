@@ -2,17 +2,20 @@
    Tobias Tober – homepage styling
    -------------------------------------------------- */
 
-/* Warmer, slightly softer academic colour palette */
 :root {
     --theme: #fbfaf7;
     --entry: #ffffff;
-    --primary: #243746;
-    --secondary: #66757f;
-    --tertiary: #edf2f1;
-    --content: #34434c;
-    --border: #dde5e3;
 
-    --accent: #286f6b;
+    /* warm neutral text colors */
+    --primary: #343837;
+    --secondary: #707775;
+    --content: #424846;
+
+    --tertiary: #edf3f1;
+    --border: #dde5e2;
+
+    /* green accent */
+    --accent: #2f746d;
     --accent-soft: #edf5f3;
 }
 
@@ -22,15 +25,17 @@
    -------------------------------------------------- */
 
 .profile img {
-    width: 165px;
-    height: 195px;
-    object-fit: cover;
+    width: 170px;
+    height: auto;
 
-    /* rounded portrait instead of oval/circle */
+    /* preserve full image rather than cropping */
+    object-fit: contain;
+
+    /* softly rounded portrait */
     border-radius: 14px;
 
     border: 1px solid #d9e0de;
-    box-shadow: 0 5px 18px rgba(36, 55, 70, 0.10);
+    box-shadow: 0 5px 18px rgba(0, 0, 0, 0.08);
 }
 
 
@@ -48,11 +53,6 @@
 /* --------------------------------------------------
    Biography
    -------------------------------------------------- */
-
-/*
-   PaperMod puts profileMode.subtitle inside a <span>.
-   Give the longer biography a comfortable reading width.
-*/
 
 .profile .profile_inner > span {
     max-width: 760px;
@@ -102,7 +102,10 @@
 }
 
 
-/* Slightly softer divider/borders */
+/* --------------------------------------------------
+   Header / footer
+   -------------------------------------------------- */
+
 .header,
 .footer {
     color: var(--secondary);
