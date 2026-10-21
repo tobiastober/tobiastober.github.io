@@ -113,11 +113,12 @@
 
 /* Homepage background image */
 body:has(.profile) {
-    position: relative;
     background:
         linear-gradient(
-            rgba(251, 250, 247, 0.78),
-            rgba(251, 250, 247, 0.90)
+            rgba(251, 250, 247, 0.72),
+            rgba(251, 250, 247, 0.78)
         ),
-        url("/images/munich.jpg") center 35% / cover fixed no-repeat;
+        url("/images/munich.jpg") center 40% / cover no-repeat;
+
+    min-height: 100vh;
 }
