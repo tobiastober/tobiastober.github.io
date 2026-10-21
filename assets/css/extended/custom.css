@@ -110,3 +110,14 @@
 .footer {
     color: var(--secondary);
 }
+
+/* Homepage background image */
+body.home {
+    position: relative;
+    background:
+        linear-gradient(
+            rgba(251, 250, 247, 0.82),
+            rgba(251, 250, 247, 0.82)
+        ),
+        url("/images/munich.jpg") center center / cover fixed no-repeat;
+}
