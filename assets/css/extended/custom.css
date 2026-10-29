@@ -42,9 +42,10 @@
    -------------------------------------------------- */
 
 .profile .profile_inner h1 {
-    color: var(--primary);
-    font-size: 2.1rem;
-    letter-spacing: -0.02em;
+    color: #2f3332;
+    font-size: 2.15rem;
+    font-weight: 700;
+    letter-spacing: -0.025em;
 }
 
 
@@ -53,11 +54,12 @@
    -------------------------------------------------- */
 
 .profile .profile_inner > span {
-    max-width: 760px;
+    max-width: 900px;
     text-align: left;
-    line-height: 1.65;
-    font-size: 1rem;
-    color: var(--content);
+    line-height: 1.62;
+    font-size: 1.02rem;
+    font-weight: 400;
+    color: #363b39;
     margin-top: 4px;
 }
 
@@ -71,6 +73,8 @@
 
 .profile .profile_inner > span a:hover {
     text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
 
 
