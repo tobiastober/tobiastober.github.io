@@ -134,3 +134,19 @@ body:has(.profile) {
 .profile .buttons .button:last-child:hover {
     background: var(--accent-soft);
 }
+
+/* --------------------------------------------------
+   Widen text area for desktop
+   -------------------------------------------------- */
+
+@media screen and (min-width: 900px) {
+
+    .profile .profile_inner {
+        width: 100%;
+        max-width: 980px;
+    }
+
+    .profile .profile_inner > span {
+        max-width: 920px;
+    }
+}
