@@ -119,3 +119,18 @@ body:has(.profile) {
         ),
         url("/images/munich.jpg") center 35% / cover fixed no-repeat;
 }
+
+/* --------------------------------------------------
+   Homepage language button
+   -------------------------------------------------- */
+
+.profile .buttons .button:last-child {
+    background: transparent;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    min-width: 44px;
+}
+
+.profile .buttons .button:last-child:hover {
+    background: var(--accent-soft);
+}

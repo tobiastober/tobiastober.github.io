@@ -46,13 +46,15 @@ languages:
         imageHeight: 170
         imageTitle: "Tobias Tober"
 
-        buttons:
+                buttons:
           - name: "Academic Publications"
             url: "/publications/"
           - name: "Policy & Public Writing"
             url: "/policy-public-writing/"
           - name: "Teaching"
             url: "/teaching/"
+          - name: "Deutsch"
+            url: "/de/"
 
 
   de:
@@ -94,7 +96,8 @@ languages:
             url: "/de/policy-public-writing/"
           - name: "Lehre"
             url: "/de/teaching/"
-
+          - name: "English"
+            url: "/"
 
 params:
   author: "Dr. Tobias Tober"
