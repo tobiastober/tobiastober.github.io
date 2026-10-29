@@ -1,4 +1,4 @@
 ---
-title: "Papers"
-description: "Preprints and articles on this website."
+title: "Academic Publications"
+description: "Peer-reviewed articles and other academic research."
 ---

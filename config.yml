@@ -10,12 +10,15 @@ taxonomies:
 
 menu:
   main:
-    - name: Publications
+    - name: Academic Publications
       url: publications/
       weight: 1
+    - name: Policy & Public Writing
+      url: policy-public-writing/
+      weight: 2
     - name: Teaching
       url: teaching/
-      weight: 2
+      weight: 3
 
 params:
   description: "I am a postdoctoral researcher in political science at the University of Konstanz. I am a member of the Department of Politics and Public Administration, the Cluster of Excellence The Politics of Inequality, and a ZENiT Fellow at the Zukunftskolleg (Institute for Advanced Study)."
@@ -61,8 +64,10 @@ params:
     imageTitle: "Tobias Tober"
 
     buttons:
-      - name: Publications
+      - name: Academic Publications
         url: publications/
+      - name: Policy & Public Writing
+        url: policy-public-writing/
       - name: Teaching
         url: teaching/
 
