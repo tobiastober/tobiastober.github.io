@@ -140,12 +140,17 @@ body:has(.profile) {
    -------------------------------------------------- */
 
 @media screen and (min-width: 900px) {
+
+    .main:has(.profile) {
+        --main-width: 1050px;
+    }
+
     .profile .profile_inner {
-        width: 100% !important;
-        max-width: 1100px !important;
+        width: 100%;
+        max-width: 1050px;
     }
 
     .profile .profile_inner > span {
-        max-width: 1000px !important;
+        max-width: 980px;
     }
 }
