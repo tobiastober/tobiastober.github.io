@@ -53,7 +53,7 @@ languages:
             url: "/policy-public-writing/"
           - name: "Teaching"
             url: "/teaching/"
-          - name: "DE"
+          - name: "Deutsch"
             url: "/de/"
 
   de:
@@ -95,7 +95,7 @@ languages:
             url: "/de/policy-public-writing/"
           - name: "Lehre"
             url: "/de/teaching/"
-          - name: "EN"
+          - name: "English"
             url: "/"
 params:
   author: "Dr. Tobias Tober"
