@@ -1,0 +1,3 @@
+---
+translationKey: "home"
+---
