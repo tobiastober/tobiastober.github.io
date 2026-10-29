@@ -11,22 +11,25 @@ enableRobotsTXT: true
 taxonomies:
   tag: tags
 
-languages:
-  en:
-    label: "English"
-    locale: "en"
-    weight: 1
 
-    menus:
+languages:
+
+  en:
+    languageName: "English"
+    languageCode: "en"
+    weight: 1
+    title: "Dr. Tobias Tober"
+
+    menu:
       main:
         - name: "Academic Publications"
-          pageRef: "/publications"
+          url: "/publications/"
           weight: 1
         - name: "Policy & Public Writing"
-          pageRef: "/policy-public-writing"
+          url: "/policy-public-writing/"
           weight: 2
         - name: "Teaching"
-          pageRef: "/teaching"
+          url: "/teaching/"
           weight: 3
 
     params:
@@ -35,13 +38,8 @@ languages:
       profileMode:
         enabled: true
         title: "Dr. Tobias Tober"
-
-        subtitle: |
-          I am a postdoctoral researcher in political science at the [**University of Konstanz**](https://www.uni-konstanz.de/en/). I am a member of the [**Department of Politics and Public Administration**](https://www.polver.uni-konstanz.de/en/busemeyer/team/team-prof-dr-marius-r-busemeyer/dr-tobias-tober/), the Cluster of Excellence [**The Politics of Inequality**](https://www.exc.uni-konstanz.de/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tober-tobias/), and a ZENiT Fellow at the [**Zukunftskolleg**](https://www.uni-konstanz.de/zukunftskolleg/community/research-fellows/) (Institute for Advanced Study).
-
-          My research examines the political implications of large-scale structural transformations, including European integration, globalization, technological change, and climate change, from a comparative perspective. I am particularly interested in how these transformations reshape the political economy of advanced democracies. My research in this area addresses issues such as social policy, business interests, inequality, and subjective well-being.
-
-          In addition, I have a strong interest in applied quantitative methods and Bayesian statistics. My work has appeared in leading journals including the *British Journal of Political Science*, *Comparative Political Studies*, the *Journal of Politics*, and *Socio-Economic Review*.
+        subtitle: >-
+          I am a postdoctoral researcher in political science at the [**University of Konstanz**](https://www.uni-konstanz.de/en/). I am a member of the [**Department of Politics and Public Administration**](https://www.polver.uni-konstanz.de/en/busemeyer/team/team-prof-dr-marius-r-busemeyer/dr-tobias-tober/), the Cluster of Excellence [**The Politics of Inequality**](https://www.exc.uni-konstanz.de/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tober-tobias/), and a ZENiT Fellow at the [**Zukunftskolleg**](https://www.uni-konstanz.de/zukunftskolleg/community/research-fellows/) (Institute for Advanced Study). My research examines the political implications of large-scale structural transformations, including European integration, globalization, technological change, and climate change, from a comparative perspective. I am particularly interested in how these transformations reshape the political economy of advanced democracies. My research in this area addresses issues such as social policy, business interests, inequality, and subjective well-being. In addition, I have a strong interest in applied quantitative methods and Bayesian statistics. My work has appeared in leading journals including the *British Journal of Political Science*, *Comparative Political Studies*, the *Journal of Politics*, and *Socio-Economic Review*.
 
         imageUrl: "pic.png"
         imageWidth: 170
@@ -56,21 +54,23 @@ languages:
           - name: "Teaching"
             url: "/teaching/"
 
-  de:
-    label: "Deutsch"
-    locale: "de-DE"
-    weight: 2
 
-    menus:
+  de:
+    languageName: "Deutsch"
+    languageCode: "de-DE"
+    weight: 2
+    title: "Dr. Tobias Tober"
+
+    menu:
       main:
         - name: "Wissenschaftliche Publikationen"
-          pageRef: "/publications"
+          url: "/de/publications/"
           weight: 1
         - name: "Policy & öffentliche Beiträge"
-          pageRef: "/policy-public-writing"
+          url: "/de/policy-public-writing/"
           weight: 2
         - name: "Lehre"
-          pageRef: "/teaching"
+          url: "/de/teaching/"
           weight: 3
 
     params:
@@ -79,13 +79,8 @@ languages:
       profileMode:
         enabled: true
         title: "Dr. Tobias Tober"
-
-        subtitle: |
-          Ich bin Postdoktorand in der Politikwissenschaft an der [**Universität Konstanz**](https://www.uni-konstanz.de/). Ich bin Mitglied des [**Fachbereichs Politik- und Verwaltungswissenschaft**](https://www.polver.uni-konstanz.de/busemeyer/team/team-prof-dr-marius-r-busemeyer/dr-tobias-tober/), des Exzellenzclusters [**The Politics of Inequality**](https://www.exc.uni-konstanz.de/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tober-tobias/) und ZENiT Fellow am [**Zukunftskolleg**](https://www.uni-konstanz.de/zukunftskolleg/) (Institute for Advanced Study).
-
-          Meine Forschung untersucht aus vergleichender Perspektive die politischen Folgen tiefgreifender struktureller Veränderungen wie der europäischen Integration, der Globalisierung, des technologischen Wandels und des Klimawandels. Besonders interessiert mich, wie diese Veränderungen die politische Ökonomie fortgeschrittener Demokratien prägen. In diesem Zusammenhang beschäftige ich mich unter anderem mit Sozialpolitik, Unternehmensinteressen, Ungleichheit und subjektivem Wohlbefinden.
-
-          Darüber hinaus interessiere ich mich für angewandte quantitative Methoden und Bayes-Statistik. Meine Arbeiten sind in führenden Fachzeitschriften wie dem *British Journal of Political Science*, *Comparative Political Studies*, dem *Journal of Politics* und *Socio-Economic Review* erschienen.
+        subtitle: >-
+          Ich bin Postdoktorand in der Politikwissenschaft an der [**Universität Konstanz**](https://www.uni-konstanz.de/). Ich bin Mitglied des [**Fachbereichs Politik- und Verwaltungswissenschaft**](https://www.polver.uni-konstanz.de/busemeyer/team/team-prof-dr-marius-r-busemeyer/dr-tobias-tober/), des Exzellenzclusters [**The Politics of Inequality**](https://www.exc.uni-konstanz.de/ungleichheit/ueber-uns/personen/alle-clustermitglieder/tober-tobias/) und ZENiT Fellow am [**Zukunftskolleg**](https://www.uni-konstanz.de/zukunftskolleg/) (Institute for Advanced Study). Meine Forschung untersucht aus vergleichender Perspektive die politischen Folgen tiefgreifender struktureller Veränderungen wie der europäischen Integration, der Globalisierung, des technologischen Wandels und des Klimawandels. Besonders interessiert mich, wie diese Veränderungen die politische Ökonomie fortgeschrittener Demokratien prägen. In diesem Zusammenhang beschäftige ich mich unter anderem mit Sozialpolitik, Unternehmensinteressen, Ungleichheit und subjektivem Wohlbefinden. Darüber hinaus interessiere ich mich für angewandte quantitative Methoden und Bayes-Statistik. Meine Arbeiten sind in führenden Fachzeitschriften wie dem *British Journal of Political Science*, *Comparative Political Studies*, dem *Journal of Politics* und *Socio-Economic Review* erschienen.
 
         imageUrl: "pic.png"
         imageWidth: 170
@@ -100,6 +95,7 @@ languages:
           - name: "Lehre"
             url: "/de/teaching/"
 
+
 params:
   author: "Dr. Tobias Tober"
 
@@ -108,7 +104,6 @@ params:
   hideFooter: false
   disableThemeToggle: true
 
-  # PaperMod displays the compact EN / DE language selector
   displayFullLangName: false
 
   ShowShareButtons: false
@@ -161,6 +156,7 @@ params:
     text: "Tobias Tober"
     icon: "pic.jpg"
     iconHeight: 35
+
 
 markup:
   goldmark:
