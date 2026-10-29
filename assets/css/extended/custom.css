@@ -147,6 +147,6 @@ body:has(.profile) {
     }
 
     .profile .profile_inner > span {
-        max-width: 920px;
+        max-width: 1000px;
     }
 }
